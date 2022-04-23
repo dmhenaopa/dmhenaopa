@@ -2,9 +2,6 @@
 <h3 align="center">A passionate software developer from Colombia</h3>
 
 - 🌱 I’m currently learning **React, Flutter and Dart**
-
-- 📫 How to reach me **dimhenaopa@gmail.com**
-
 - ⚡ Fun fact **I love plants :)**
 
 <h3 align="left">Connect with me:</h3>
