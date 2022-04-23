@@ -1,6 +1,6 @@
 <div align="center"><img align="center" width=250 src=https://user-images.githubusercontent.com/77861287/164944782-abd68708-76d8-4f1d-891f-a001e0f9f417.png></img></div> 
 
-<h1 align="center" font-size=4em>< 👋 Konnichiwa, world! /></h1>
+<h1 align="center" style="font-size=4em">< 👋 Konnichiwa, world! /></h1>
 
 <br/>
 
@@ -91,11 +91,13 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=dmhenaopa&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhenaopa&hide_border=true&layout=compact" align="right" /></div>  
-
+## Github Stats
+<table  align="center"><tr><td valign="top" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmhenaopa&show_icons=true&count_private=true&hide_border=true" align="right" />  
+</td>
+<td valign="top" width="50%" align="center">
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhenaopa&hide_border=true&layout=compact" align="left" /></div>  
+</td></tr></table>
 <br/>  
 
 
