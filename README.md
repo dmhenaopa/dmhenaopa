@@ -1,6 +1,9 @@
-<div align="center"><img align="center" width=250 src=https://user-images.githubusercontent.com/77861287/164944782-abd68708-76d8-4f1d-891f-a001e0f9f417.png></img></div> 
+<div align="center"><img align="center" width=250 src=https://user-images.githubusercontent.com/77861287/164944782-abd68708-76d8-4f1d-891f-a001e0f9f417.png></img></div>
 
-<h1 align="center" style="font-size=4em">< 👋 Konnichiwa, world! /></h1>
+<br/>
+
+<div align="center"><img width=650 src=https://user-images.githubusercontent.com/77861287/164949156-718f92b4-63e2-44da-8369-5ab1b9e00706.png></img></div>
+
 
 <br/>
 
@@ -39,7 +42,7 @@
 <div align="center">  
   
 </div>
-
+<br/>  
 </td><td valign="top" width="33%">
 
 
@@ -53,7 +56,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 </div>
-
+<br/> 
 </td><td valign="top" width="33%">
 
 
@@ -65,7 +68,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 </div>
-
+<br/> 
 </td></tr></table>  
 
 <br/>  
@@ -92,10 +95,10 @@
 
 
 ## Github Stats
-<table  align="center"><tr><td valign="top" width="50%">
+<table  align="center"><tr><td valign="top" width="55%">
   <img src="https://github-readme-stats.vercel.app/api?username=dmhenaopa&show_icons=true&count_private=true&hide_border=true" align="right" />  
 </td>
-<td valign="top" width="50%" align="center">
+<td valign="top" width="45%" align="center">
   <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhenaopa&hide_border=true&layout=compact" align="left" /></div>  
 </td></tr></table>
 <br/>  
