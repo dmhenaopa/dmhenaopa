@@ -1,4 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Diana Maria Henao Parra</h1>
+<h1 align="left">Hello there 👋, I'm Diana Maria Henao Parra <img align="right" width=150 src=https://user-images.githubusercontent.com/77861287/164943850-e39b20f7-8e79-4d92-a5bf-dd325b377d80.png></img></h1>
+
 <h3 align="center">A passionate software developer from Colombia</h3>
 
 - 🌱 I’m currently learning **React, Flutter and Dart**
