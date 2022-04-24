@@ -2,14 +2,12 @@
 
 <br/>
 
-<div align="center"><img width=650 src=https://user-images.githubusercontent.com/77861287/164949156-718f92b4-63e2-44da-8369-5ab1b9e00706.png></img></div>
-
-
+<div align="center"><img width=650 src=https://user-images.githubusercontent.com/77861287/164951499-5b8d9144-3a20-4356-bfe3-ce156c0d2cfa.png></img></div>
 <br/>
+
 
 ### <div align="center">I'm Diana Maria Henao Parra, a full-time software developer 👩‍💻 learning to program since 2021 🚀</div>
 <br/> 
-  
 
 - 🔭 I am currently looking for a first job opportunity in the IT area.  
   
@@ -96,10 +94,10 @@
 
 ## Github Stats
 <table  align="center"><tr><td valign="top" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmhenaopa&show_icons=true&count_private=true&hide_border=true" align="right" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=dmhenaopa&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="right" />  
 </td>
 <td valign="top" width="45%" align="center">
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhenaopa&hide_border=true&layout=compact" align="left" /></div>  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhenaopa&hide_border=true&layout=compact&theme=github_dark" align="left" /></div>  
 </td></tr></table>
 <br/>  
 
