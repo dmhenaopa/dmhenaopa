@@ -106,6 +106,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [A short note on the Internet of Things](https://dmhenaopa.medium.com/a-short-note-on-the-internet-of-things-b75837e35acc?source=rss-4c705e9feba0------2)
+- [A short note on the Internet of Things](https://dmhenaopa.medium.com/a-short-note-on-the-internet-of-things-b75837e35acc?source=rss-4c705e9feba0------2)
+- [For Python, Everything is an Object](https://python.plainenglish.io/for-python-everything-is-an-object-1b2c45cbbea?source=rss-4c705e9feba0------2)
+- [For Python, Everything is an Object](https://python.plainenglish.io/for-python-everything-is-an-object-1b2c45cbbea?source=rss-4c705e9feba0------2)
+- [C — Static libraries](https://dmhenaopa.medium.com/c-static-libraries-1c3d3d66092d?source=rss-4c705e9feba0------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
