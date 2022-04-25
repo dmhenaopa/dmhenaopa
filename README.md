@@ -2,8 +2,9 @@
 
 <br/>
 
-<div align="center"><img width=650 src=https://user-images.githubusercontent.com/77861287/164951499-5b8d9144-3a20-4356-bfe3-ce156c0d2cfa.png></img></div>
+<div align="center"><img width=650 src=https://user-images.githubusercontent.com/77861287/165098206-b9c8b477-85e1-40f0-8ffd-e4708a2ce999.png></img></div>
 <br/>
+
 
 
 ### <div align="center">I'm Diana Maria Henao Parra, a full-time software developer 👩‍💻 learning to program since 2021 🚀</div>
