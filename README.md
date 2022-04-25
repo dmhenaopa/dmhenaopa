@@ -1,8 +1,8 @@
-<div align="center"><img align="center" width=250 src=https://user-images.githubusercontent.com/77861287/164944782-abd68708-76d8-4f1d-891f-a001e0f9f417.png></img></div>
+<div align="center"><img align="center" width=250 src=https://user-images.githubusercontent.com/77861287/164944782-abd68708-76d8-4f1d-891f-a001e0f9f417.png alt="Diana using a computer"></img></div>
 
 <br/>
 
-<div align="center"><img width=650 src=https://user-images.githubusercontent.com/77861287/165098206-b9c8b477-85e1-40f0-8ffd-e4708a2ce999.png></img></div>
+<div align="center"><img width=650 src=https://user-images.githubusercontent.com/77861287/165098206-b9c8b477-85e1-40f0-8ffd-e4708a2ce999.png alt="Greeting in japanese: konnichiwa world"></img></div>
 <br/>
 
 
@@ -23,7 +23,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table id="table"><tr><td valign="top" width="33%">
 
 
 
