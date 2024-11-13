@@ -1,4 +1,4 @@
-<h1 align="center"><img align="right" src="https://github.com/user-attachments/assets/69bd40cb-553c-424c-8827-3ecd7e20b738" width="300"/><br/> <br/> 今日は!  <br/> I'm Diana Maria Henao Parra</h1>
+<h1 align="center"><img align="right" src="https://github.com/user-attachments/assets/39c61d08-5b78-49a5-b703-3755b54706a8" width="350"/><br/> <br/> 今日は!  <br/> I'm Diana Maria Henao Parra</h1>
 <br/> 
 <div align="center" style="vertical-align:middle">
   <p>Connect with me</p>
@@ -53,6 +53,8 @@
 <br/> 
 <br/> 
 <br/>
+<br/> 
+<br/> 
 <br/> 
 <br/> 
 
