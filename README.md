@@ -1,4 +1,4 @@
-<h1 align="center"><img align="left" src="https://media.giphy.com/media/TyjVA0RKyHznHqiTD1/giphy.gif" width="350"/>今日は! <br/> I'm Diana Maria Henao Parra</h1>
+<h1 align="center"><img align="right" src="https://github.com/user-attachments/assets/69bd40cb-553c-424c-8827-3ecd7e20b738" width="300"/><br/> <br/> 今日は!  <br/> I'm Diana Maria Henao Parra</h1>
 <br/> 
 <div align="center" style="vertical-align:middle">
   <p>Connect with me</p>
@@ -13,8 +13,6 @@
     </a>  
 </div>
 
-<br/> 
-<br/> 
 <br/> 
 <br/>
 <br/>  
@@ -31,7 +29,7 @@
 
 
 # Recent Blog Posts
-<img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif" width="300" align="right"/>
+<img align="right" src="https://github.com/user-attachments/assets/d15e6f15-f0a7-4c2a-86d5-18bdbd409dbd" width="350"/>
 
 <!-- BLOG-POST-LIST:START -->
 - [A short note on the Internet of Things](https://dmhenaopa.medium.com/a-short-note-on-the-internet-of-things-b75837e35acc?source=rss-4c705e9feba0------2)
@@ -53,8 +51,10 @@
 
 <br/>  
 <br/> 
-
+<br/> 
 <br/>
+<br/> 
+<br/> 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
