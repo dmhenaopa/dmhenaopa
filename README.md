@@ -63,14 +63,6 @@
 <img src="https://komarev.com/ghpvc/?username=dmhenaopa&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-<br/> 
-<br/> 
-<br/>
-<br/> 
-<br/> 
-<br/> 
 <br/> 
 
 ----
