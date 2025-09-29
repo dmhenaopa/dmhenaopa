@@ -1,7 +1,32 @@
 <h1 align="center"><img align="right" src="https://github.com/user-attachments/assets/d2c1ef3b-51db-4f13-9cd8-c9918050f888" width="350"/><br/> <br/> 今日は!  <br/> I'm Diana Maria Henao Parra</h1>
 <br/> 
-<div align="center" style="vertical-align:middle">
-  <p>Connect with me</p>
+
+✨ I’m a QA Automation Engineer passionate about building reliable software and making tech better through testing. Right now, I’m diving into Data Science & Analytics to expand my skills and bring a data-driven perspective into my life. I enjoy solving problems, learning continuously, and creating projects where quality meets data 🚀.
+<br/>
+<br/> 
+&emsp; 💻 By day: QA Automation Engineer
+<br/> 
+&emsp; 🧶 By night: Data Science learner & crochet animal maker
+<br/> 
+&emsp; 🚀 Always mixing creativity, code & curiosity
+<br/> 
+
+<br/>
+<h2>Some skills</h2>
+<img align="right" src="https://github.com/user-attachments/assets/d15e6f15-f0a7-4c2a-86d5-18bdbd409dbd" width="350"/>
+&emsp; 💻 QA Automation Engineer (Playwright | APIs | CI/CD)
+<br/> 
+&emsp; 👩🏻‍💻 Coding (Typescript | React)
+<br/> 
+&emsp; 📊 Learning Data Science (Python | SQL | Pandas | ML)
+<br/>  
+&emsp; 🤝 Open to collabs in QA & Data-driven projects
+<br/>  
+
+
+<br/> 
+<div align="left" style="vertical-align:middle">
+  <p>Let’s connect!</p>
     <a href="https://github.com/dmhenaopa" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
@@ -16,7 +41,8 @@
 <br/> 
 <br/>
 <br/>  
-
+<br/>
+<br/>
 
 # Github Stats 
 <table  align="center"><tr><td valign="top" width="55%">
@@ -26,17 +52,6 @@
   <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhenaopa&hide_border=true&layout=compact&theme=github_dark" align="left" /></div>  
 </td></tr></table>
 <br/>  
-
-
-# Recent Blog Posts
-<img align="right" src="https://github.com/user-attachments/assets/d15e6f15-f0a7-4c2a-86d5-18bdbd409dbd" width="350"/>
-
-<!-- BLOG-POST-LIST:START -->
-- [A short note on the Internet of Things](https://dmhenaopa.medium.com/a-short-note-on-the-internet-of-things-b75837e35acc?source=rss-4c705e9feba0------2)
-- [For Python, Everything is an Object](https://python.plainenglish.io/for-python-everything-is-an-object-1b2c45cbbea?source=rss-4c705e9feba0------2)
-- [C — Static libraries](https://dmhenaopa.medium.com/c-static-libraries-1c3d3d66092d?source=rss-4c705e9feba0------2)
-- [What happens when you type gcc main.c?](https://dmhenaopa.medium.com/what-happens-when-you-type-gcc-main-c-9479ebc92195?source=rss-4c705e9feba0------2)
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
